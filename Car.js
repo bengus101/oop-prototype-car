@@ -2,20 +2,21 @@ function Car(make, model, year, color, seats){
   this.make = make;
   this.model = model;
   this.year = year;
-  //TODO: add color, seats here
-
-  this.running = false;
-  this.owner = "manufacturer";
-  this.previousOwners = [];
+  this.color = color;
+  this.seats = seats;
+  // this.running = false;
+  // this.owner = "manufacturer";
+  // this.previousOwners = [];
+  // this.running = false
 }
 
-Car.prototype.sell = function(newOwner){
+// Car.prototype.sell = function(newOwner){
+// 	this.make = 
+// };
 
-};
+// Car.prototype.paint = function(newColor){
 
-Car.prototype.paint = function(newColor){
-
-};
+// };
 
 
 

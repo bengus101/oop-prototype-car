@@ -14,6 +14,7 @@ We need a prototype for a car. Can you help us with your sweet javascript skills
 
 Our car should have the following:
 
+
 * make
 * model
 * year
